@@ -21,7 +21,7 @@ Prerequisites:
 Make sure you have a web browser installed. No other installations are required.
 
 Installation:
-1. Clone the repository: git clone https://github.com/your-username/TinDog.git
+1. Clone the repository: git clone https://github.com/mvjitu7/TinDog.git
 2. Navigate to the project directory: cd TinDog
 3. Open index.html in your browser to view the website.
 
