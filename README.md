@@ -1,4 +1,7 @@
-TinDog
+TinDog 
+
+Check out the live version of the project [here](https://mvjitu7.github.io/TinDog/).
+
 
 Overview: 
 TinDog is a fictional website designed for dog lovers to connect with each other. This project is built using HTML, CSS, and Bootstrap 5, demonstrating a responsive and modern design.
